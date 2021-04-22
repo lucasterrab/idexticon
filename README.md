@@ -14,4 +14,5 @@ Clone the repo, open IEx and just use `Idexticon.main("NAME")`
 
 ### Example
 If I enter `Idexticon.main("lucasterrab")` the program will generate this image
+
 ![example](example/lucasterrab.png)
